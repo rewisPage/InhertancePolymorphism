@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UserNameSpace
+namespace InhertancePolymorphism.InhertancePolymorphism
 {
     public class User
     {

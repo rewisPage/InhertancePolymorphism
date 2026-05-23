@@ -1,6 +1,6 @@
+using InhertancePolymorphism.InhertancePolymorphism;
 using System;
 using System.Windows.Forms;
-using UserNameSpace;
 
 namespace InhertancePolymorphism
 {

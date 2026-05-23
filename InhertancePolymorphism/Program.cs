@@ -1,4 +1,4 @@
-namespace InhertancePolymorphism
+namespace InhertancePolymorphism.InhertancePolymorphism
 {
     internal static class Program
     {
